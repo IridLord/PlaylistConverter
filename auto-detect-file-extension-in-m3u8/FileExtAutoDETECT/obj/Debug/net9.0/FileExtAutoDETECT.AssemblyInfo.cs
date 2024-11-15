@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Test1")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("FileExtAutoDETECT")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c152de11f80fb2678668a05971062146e3b82526")]
-[assembly: System.Reflection.AssemblyProductAttribute("Test1")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Test1")]
+[assembly: System.Reflection.AssemblyProductAttribute("FileExtAutoDETECT")]
+[assembly: System.Reflection.AssemblyTitleAttribute("FileExtAutoDETECT")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Создано классом WriteCodeFragment MSBuild.
